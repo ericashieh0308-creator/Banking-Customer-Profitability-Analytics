@@ -43,3 +43,7 @@ Random Forest achieved approximately 23% lower test RMSE than Linear Regression.
 ![Projected Profit Comparison](visualizations/profit_comparison.png)
 
 Individual-level targeting generated 10.31% higher projected net profit than segment-based targeting under the modeled assumptions. These figures are projections, not realized returns.
+
+## Detailed Methodology
+
+For a step-by-step explanation of the analytical process, see the [Analytical Workflow](methodology/analytical_workflow.md).
