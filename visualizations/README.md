@@ -2,7 +2,7 @@
 
 This folder contains visual summaries of predictive model performance and projected customer targeting profitability.
 
-## Planned Visualizations
+## Visualizations
 
 1. Model Comparison — Test RMSE for Linear Regression vs. Random Forest.
 2. Profit Optimization — Projected net profit for segment-based vs. individual-level targeting.
