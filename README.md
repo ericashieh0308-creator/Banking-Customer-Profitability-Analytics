@@ -31,3 +31,15 @@ Predictive Analytics · Random Forest · Linear Regression · Expected Value Ana
 
 ## Important Note
 All profit figures are model-based projections, not realized business results. This portfolio summary does not include confidential customer-level data or restricted course assessment materials.
+
+## Data Visualizations
+
+### 1. Predictive Model Performance
+![Linear Regression vs Random Forest Test RMSE](visualizations/model_comparison.png)
+
+Random Forest achieved approximately 23% lower test RMSE than Linear Regression.
+
+### 2. Projected Profit Optimization
+![Projected Profit Comparison](visualizations/profit_comparison.png)
+
+Individual-level targeting generated 10.31% higher projected net profit than segment-based targeting under the modeled assumptions. These figures are projections, not realized returns.
