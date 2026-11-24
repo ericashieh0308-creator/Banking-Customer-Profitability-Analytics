@@ -47,3 +47,24 @@ Individual-level targeting generated 10.31% higher projected net profit than seg
 ## Detailed Methodology
 
 For a step-by-step explanation of the analytical process, see the [Analytical Workflow](methodology/analytical_workflow.md).
+
+## Executive Presentation
+
+[Download the Full PowerPoint Presentation](results/Banking_Analytics_Portfolio.pptx)
+
+A 13-slide executive presentation showcasing how predictive analytics and financial modeling can optimize banking customer acquisition and campaign profitability.
+
+### Key Business Outcomes
+
+- **$140,398** projected net profit
+- **10.31%** projected profit improvement over segment-level targeting
+- **23.0%** reduction in prediction RMSE using Random Forest
+- **30,000** historical prospects analyzed
+- **$15,000** campaign budget optimized
+
+### Core Competencies
+
+Financial Modeling | Predictive Analytics | Random Forest | Customer Segmentation | Expected Value Analysis | Budget Optimization | Business Strategy
+
+*Financial outcomes are model-based projections, not realized profits.*
+
